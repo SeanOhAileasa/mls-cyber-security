@@ -3,7 +3,7 @@
 [![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Machine Learning for Cyber Security
-### Topic: [Cybersecurity](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb)
+### Topic: [Cyber Security](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb)
 
 Course material for the ``Machine Learning for Cyber Security`` module provided by Ricardo A. Calix, PhD at Purdue University Northwest (Chicago) and author of [[``Getting Started with Deep Learning: Programming and Methodologies using Python``](https://www.amazon.com/Getting-Started-Deep-Learning-Methodologies/dp/1542567092/ref=sr_1_3?keywords=getting+started+with+deep+learning&qid=1560485670&s=gateway&sr=8-3)].
 
